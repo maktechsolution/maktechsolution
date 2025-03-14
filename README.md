@@ -73,6 +73,12 @@ Feel free to explore the repository and share your thoughts or suggestions.
 
 ✨ Happy Coding! ✨
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact)
-![Trophies](https://github-profile-trophy.vercel.app/?username=yourusername)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=maktechsolution&layout=compact&theme=dark)
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=maktechsolution&show_icons=true&theme=radical)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=maktechsolution&theme=dark)
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=maktechsolution&theme=dark)
+
+
