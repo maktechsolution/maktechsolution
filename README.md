@@ -78,6 +78,5 @@ Feel free to explore the repository and share your thoughts or suggestions.
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=maktechsolution&theme=dark)
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=maktechsolution&theme=dark)
-
+![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=maktechsolution&theme=onedark)
 
